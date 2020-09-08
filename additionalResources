@@ -1,0 +1,15 @@
+Re-run from last failed -
+https://docs.microsoft.com/en-us/azure/data-factory/monitor-visually
+  check the Rerun from failed activity in the above link.
+https://feedback.azure.com/forums/270578-data-factory/suggestions/34270504-run-individual-failed-activities-only-instead-comp
+
+ADF CI/CD automation - 
+https://docs.microsoft.com/en-us/azure/data-factory/continuous-integration-deployment
+https://medium.com/@sanajitghosh/manage-ci-cd-pipelines-using-azure-devops-azure-data-factory-azure-databricks-8239a9ceef3
+
+adf plan manage costs -
+https://docs.microsoft.com/en-us/azure/data-factory/plan-manage-costs
+
+Data Flows -
+https://docs.microsoft.com/en-us/azure/data-factory/concepts-data-flow-overview#:~:text=Data%20flows%20allow%20data%20engineers,scaled%2Dout%20Apache%20Spark%20clusters.&text=Your%20data%20flows%20run%20on,for%20scaled%2Dout%20data%20processing.
+
