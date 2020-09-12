@@ -1,0 +1,58 @@
+
+
+azure stream analysis
+
+input --- ASA -- output
+
+Iot - IotHub - ASA - Blob storage
+
+1. open iot simulator
+2. portal - create iot hub
+   a. iot devices - new device
+   b. copied the connectrion string
+   c. used the above connection string in simulator.
+3. azure stream analusys
+   a. input - create input stream ex: iot
+   b. output - create output storeage - blob
+4. 
+
+
+[
+ {"messageId":609,
+"deviceId":"Raspberry Pi Web Client",
+"temperature":21.40887769307311,
+"humidity":75.51773734343735
+"time":1211221},
+{"messageId":609,
+"deviceId":"Raspberry Pi Web Client",
+"temperature":21.40887769307311,
+"humidity":75.51773734343735
+"time":1211221},
+{"messageId":609,
+"deviceId":"Raspberry Pi Web Client",
+"temperature":21.40887769307311,
+"humidity":75.51773734343735
+"time":1211221}
+]
+nosql -
+  embedding
+    - doc, jos
+    -
+  reference
+
+
+1. arm template for stream analsys
+2 edge environment
+3 scheduling 
+4. real time scenario document
+
+
+
+
+
+
+
+
+
+
+
