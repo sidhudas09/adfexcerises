@@ -1,4 +1,15 @@
+Resources - 
 
+1. arm template for stream analsys  
+    https://docs.microsoft.com/en-us/azure/templates/microsoft.streamanalytics/streamingjobs
+2 edge environment
+   https://azure.microsoft.com/en-in/blog/azure-stream-analytics-now-available-on-iot-edge/
+3 scheduling 
+  Azure stream analytics job to be continuos running, but you can have tumblining window process of data
+  https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-window-functions#:~:text=Tumbling%20window%20functions%20are%20used,more%20than%20one%20tumbling%20window.
+4. real time scenario document
+https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-with-azure-functions
+https://azure.microsoft.com/en-in/blog/anomaly-detection-using-built-in-machine-learning-models-in-azure-stream-analytics/
 
 azure stream analysis
 
@@ -41,10 +52,6 @@ nosql -
   reference
 
 
-1. arm template for stream analsys
-2 edge environment
-3 scheduling 
-4. real time scenario document
 
 
 
