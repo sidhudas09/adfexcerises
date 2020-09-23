@@ -7,10 +7,10 @@
 			"connectionString": {
 				"type": "AzureKeyVaultSecret",
 				"store": {
-					"referenceName": "AzureKeyVault1",
+					"referenceName": "AzureKeyVault2",
 					"type": "LinkedServiceReference"
 				},
-				"secretName": "storagevalue"
+				"secretName": "storagevalue1"
 			}
 		}
 	},
